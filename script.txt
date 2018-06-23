@@ -9,8 +9,8 @@ away. Thank you.
 
 Jon: 
 
-Good afternoon. For those of you who don’t know me, my name is Jonathan. I’ll be your
-officiant today.
+Good afternoon. For those of you who don’t know me, my name is Jonathan. I’ll
+be your officiant today.
 
 A quick note before we get too far, Matt wrote most of this script. So, when the
 jokes fail, blame him.
@@ -28,10 +28,10 @@ unlikely.
 Matt was obviously wrong. As he often is.
 
 Over many board games, dinners and ill-advised tequilas, their relationship
-rooted more strongly than either expected. Six years, three cities and 11 Marvel
-movies later, they’re still together. And it’s still better that they didn’t
-meet on 11-11-11, because that would have been one more day of not knowing each
-other.
+rooted more strongly than either expected. Seven years, three cities and eleven
+Marvel movies later, they’re still together. And it’s still better that they
+didn’t meet on 11-11-11, because that would have been one more day of not
+knowing each other.
 
 When Matt and Shu met seven years ago, neither was looking for a spouse. Shu had
 just applied to business school. Matt was enjoying the single life.
@@ -100,8 +100,6 @@ Thank you Lydia.
 
 And now, the declaration of intent.
 
-Jon:
-
 Do you, Matt, take Shu to be your spouse and companion? Will you support
 her, in times of sickness and in health, in times of joy and sorrow? Do you
 promise to comfort her during difficult times, to laugh with her during good
@@ -151,10 +149,6 @@ May they serve as a seal of the vows Shu and Matt make to one another now.
 Shu (holding ring): 
 
 I, Shu, take you, Matt, to be my spouse.
-I promise / I will 
-I promise / I will 
-I promise / I will 
-I promise / I will 
 I promise to give you the best of myself, for I know that together we will build
 a life far better than either of us could imagine alone.
 
@@ -165,10 +159,6 @@ a life far better than either of us could imagine alone.
 Matt: 
 
 I, Matt, take you, Shu, to be my spouse. 
-I promise / I will 
-I promise / I will 
-I promise / I will 
-I promise / I will 
 I promise to give you the best of myself, for I know that together we will build
 a life far better than either of us could imagine alone.
 
@@ -178,3 +168,5 @@ PRONOUNCEMENT:
 
 Shu and Matt, by the power vested in me by absolutely nobody, I now pronounce
 you husband and wife - kissing is required!
+
+(Clapping)
